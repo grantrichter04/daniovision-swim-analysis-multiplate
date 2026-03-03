@@ -2,10 +2,7 @@
 
 A Jupyter notebook for analysing zebrafish locomotor activity data exported from DanioVision. Supports single or multi-plate experiments, light/dark protocols, and 48-well plate layouts.
 
-![Category breakdown example](images/example_category_breakdown.png?v=2)
-
-## Run it online
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/grantrichter04/daniovision-swim-analysis-multiplate/blob/master/zebrafish_analysis.ipynb)
+![Category breakdown example](images/example_category_breakdown.png)
 
 ## What it does
 
