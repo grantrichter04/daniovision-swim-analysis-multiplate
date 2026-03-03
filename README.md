@@ -4,6 +4,9 @@ A Jupyter notebook for analysing zebrafish locomotor activity data exported from
 
 ![Category breakdown example](images/example_category_breakdown.png)
 
+## Run online
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/grantrichter04/daniovision-swim-analysis-multiplate/blob/master/zebrafish_analysis.ipynb)
+
 ## What it does
 
 - Loads one or more DanioVision `.xls` / `.xlsx` exports (auto-detects the UTF-16 TSV format DanioVision actually produces)
